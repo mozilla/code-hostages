@@ -1,0 +1,10 @@
+[submodule "reporter"]
+	path = reporter
+	url = git://github.com/fwenzel/reporter.git
+[submodule "zamboni"]
+	path = zamboni
+	url = git://github.com/jbalogh/zamboni.git
+[submodule "kitsune"]
+	path = kitsune
+	url = git://github.com/jsocol/kitsune.git
+

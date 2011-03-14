@@ -1,0 +1,15 @@
+This script will find mentions of "TODO: liberate" (or some variant) in
+zamboni, kitsune, and reporter.  Feel free to add other Mozilla projects to the
+submodules if you think they should be scanned.
+
+The output is a file, output.ack which lists a snipped of the code that we
+think could be of use to the world.
+
+Since the list is fairly small, I've kept the output ugly.  But overtime we
+might want to push the documentation to github pages and automate this query
+regularly.
+
+## TODO
+
+* push to github pages
+* format it all pretty
